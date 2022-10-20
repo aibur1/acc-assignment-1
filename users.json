@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "gender": "female",
+    "name": "Leanne Graham",
+    "address": "Gwenborough",
+    "contact": "1-770-736-8031 x56442",
+    "photoUrl": "https://images.generated.photos/Z9G5IPKsgAQszocdcmqxHiiKHPqBXJfmyAc9zHqqXV4/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LmNvbmQvODEwNDlj/MWMtMzZmZC00NGQ1/LWE0ZjEtYmU2N2U4/NTEyNmZkLmpwZw.jpg"
+  },
+  {
+    "id": "2",
+    "gender": "female",
+    "name": "Ervin Howell",
+    "address": "Wisokyburgh",
+    "contact": "010-692-6593 x09125",
+    "photoUrl": "https://images.generated.photos/vYXQXKL2clC1O5TpuAeKCpn0FtStmZpBR-GAFFElc70/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LmNvbmQvZWU5NWNi/NmItNzJhNS00YTgz/LTlkMzEtNDc2NzQ2/YmM4NDQ0LmpwZw.jpg"
+  },
+  {
+    "id": "3",
+    "gender": "male",
+    "name": "Clementine Bauch",
+    "address": "McKenziehaven",
+    "contact": "1-463-123-4447",
+    "photoUrl": "https://images.generated.photos/Qg7lp2RkvFNydZrjYmHZX0OeILbtoDFPdo8QFBMDqwc/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LmNvbmQvZDMzODJl/MTItZjBmNS00ZWQw/LTllY2ItNzFmMmVj/NDhkM2ZhLmpwZw.jpg"
+  },
+  {
+    "id": "4",
+    "gender": "female",
+    "name": "Patricia Lebsack",
+    "address": "South Elvis",
+    "contact": "493-170-9623 x156",
+    "photoUrl": "https://images.generated.photos/xS0PRwdHl4v4lbQwi-leX3VPT14FK-BK36Y7SbX3_bA/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LmNvbmQvYTQxNzgy/MjUtNDc4Mi00MzZh/LTgyZGUtZmQ4ZmMz/NDMzOTA0LmpwZw.jpg"
+  },
+  {
+    "id": "5",
+    "gender": "male",
+    "name": "Chelsey Dietrich",
+    "address": "Roscoeview",
+    "contact": "(254)954-1289",
+    "photoUrl": "https://images.generated.photos/oE4SJo82tsXxw8zoF7yfYgFKC7zAxp-7h3k9o8QfbTU/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LmNvbmQvMGY3NTI3/YWYtYWQxZC00ODdi/LThjZmMtYWNhZGVk/MWQ0OWVkLmpwZw.jpg"
+  },
+  {
+    "id": "6",
+    "gender": "female",
+    "name": "Mrs. Dennis Schulist",
+    "address": "South Christy",
+    "contact": "1-477-935-8478 x6430",
+    "photoUrl": "https://images.generated.photos/2wGDdlBSzMdNWjxntRO0BSifrmhGlDgySZmhEv1PVto/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LmNvbmQvODE4NDBi/ZjMtZjg4Ny00NDJh/LThlZjEtNjQzZWVj/ZmE0ZjM3LmpwZw.jpg"
+  },
+  {
+    "id": "7",
+    "gender": "female",
+    "name": "Kurtis Weissnat",
+    "address": "Howemouth",
+    "contact": "210.067.6132",
+    "photoUrl": "https://images.generated.photos/amckbTsDkNpgZF5kUv528Kka-yFZiTI3Yl-HXYxP-lk/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LmNvbmQvZTM0MDAy/ZTQtMTUzMC00ZjRm/LWJmNjktZjVhODc2/ZDkxNDVjLmpwZw.jpg"
+  },
+  {
+    "id": "8",
+    "gender": "female",
+    "name": "Nicholas Runolfsdottir V",
+    "address": "Aliyaview",
+    "contact": "586.493.6943 x140",
+    "photoUrl": "https://images.generated.photos/amckbTsDkNpgZF5kUv528Kka-yFZiTI3Yl-HXYxP-lk/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LmNvbmQvZTM0MDAy/ZTQtMTUzMC00ZjRm/LWJmNjktZjVhODc2/ZDkxNDVjLmpwZw.jpg"
+  },
+  {
+    "id": "9",
+    "gender": "female",
+    "name": "Glenna Reichert",
+    "address": "Bartholomebury",
+    "phone": "(775)976-6794 x41206",
+    "photo-url": "https://images.generated.photos/amckbTsDkNpgZF5kUv528Kka-yFZiTI3Yl-HXYxP-lk/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LmNvbmQvZTM0MDAy/ZTQtMTUzMC00ZjRm/LWJmNjktZjVhODc2/ZDkxNDVjLmpwZw.jpg"
+  },
+  {
+    "id": "10",
+    "gender": "female",
+    "name": "Clementina DuBuque",
+    "address": "Lebsackbury",
+    "contact": "024-648-3804",
+    "photo-url": "https://images.generated.photos/amckbTsDkNpgZF5kUv528Kka-yFZiTI3Yl-HXYxP-lk/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LmNvbmQvZTM0MDAy/ZTQtMTUzMC00ZjRm/LWJmNjktZjVhODc2/ZDkxNDVjLmpwZw.jpg"
+  }
+]
